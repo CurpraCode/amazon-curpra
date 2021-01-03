@@ -1,0 +1,12 @@
+.cart-box-product {
+  margin: 2rem;
+  font-size: 1rem;
+}
+.cart-card-text{
+    /* font-size: 0.5rem; */
+}
+.cart-product button{
+    /* font-size:0.5rem; */
+    width:30%;
+}
+
